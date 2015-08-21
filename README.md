@@ -12,12 +12,16 @@
 2. Reboot in Bootloader Mode
 3. Go to "Recovery" (Vol -) and confirm (Vol +)
 4. Wipe Data/Factory Reset
-5. Wipe Dalvik cache[
+5. Wipe Dalvik cache
 6. Install the ROM zip
 7. Install the Gapps zip
 8. Reboot
 
 Upgrading Bootloader
+
+**To Access Bootloader**
+
+    Go to "Recovery" (Vol -) and confirm (Vol +)
 
 Open terminal in the BL folder (or cd to it), plug device to PC.
 
